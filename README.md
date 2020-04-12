@@ -1,10 +1,10 @@
 # Polymorphism in OOP using JAVA
 ---
 
-### This repository contains a demonstration for different JAVA concepts by coding examples.
+### This repository contains a demonstration of different JAVA concepts by coding examples.
 
 
-The demonstration videos are available in this [Channel](https://www.youtube.com/playlist?list=PLAl3SOnt8vGZmxvwGhfmt3S1cq3Ewi30K). 
+The demonstration videos are available on this [Channel](https://www.youtube.com/playlist?list=PLAl3SOnt8vGZmxvwGhfmt3S1cq3Ewi30K). 
 
 ----
 ### Software Requirements:
